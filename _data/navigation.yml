@@ -23,12 +23,4 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-docs:
-   - title: Home
-   - title: Research
-     children:
-        - title: "Projects"
-        - url: /research/#projects
-        - title: "Academic service"
-          url: /research/#academic-service
         
