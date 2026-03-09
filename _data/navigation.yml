@@ -1,0 +1,34 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/ 
+  - title: "Academic Service"
+    url: /academicservice/
+  - title: "Supervision"
+    url: /supervision/
+  - title: "Teaching"
+    url: /teaching/  
+  - title: "Blog"
+    url: /blog/
+  - title: "Publications"
+    url: /publications/
+  - title: "Photos"
+    url: /photos/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+docs:
+   - title: Home
+   - title: Research
+     children:
+        - title: "Projects"
+        - url: /research/#projects
+        - title: "Academic service"
+          url: /research/#academic-service
+        
