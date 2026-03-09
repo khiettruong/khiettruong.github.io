@@ -1,0 +1,71 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// change font size
+html {
+    font-size: 10px; // change to whatever
+  
+    @include breakpoint($medium) {
+      font-size: 12px; // change to whatever
+    }
+  
+    @include breakpoint($large) {
+      font-size: 14px; // change to whatever
+    }
+  
+    @include breakpoint($x-large) {
+      font-size: 16px; // change to whatever
+    }
+  }
+
+.page__content div,
+.page__content p,
+.page__content ul,
+.page__content ol,
+.page__content dl, 
+.page__content li {
+  font-size: 16px;
+}
+.page__content p {
+  font-size: 16px;
+}
+
+.masthead__menu-item a {
+  font-size: 16px !important;
+}
+
+.site-title {
+  font-size: 18px !important;
+}
+
+.author__name {
+  font-size: 18px !important;
+}
+
+.author__bio {
+  font-size: 14px !important;
+}
+
+.author__urls li {
+  font-size: 14px !important;
+}
+
+/* Fix blog post text size */
+.layout--post .archive p {
+  font-size: 14px !important;
+}
+
+.layout--post .archive li {
+  font-size: 14px !important;
+}
+
+.layout--post .archive h1 { font-size: 18px !important; }
+.layout--post .archive h2 { font-size: 14px !important; }
+.layout--post .archive h3 { font-size: 12px !important; }
