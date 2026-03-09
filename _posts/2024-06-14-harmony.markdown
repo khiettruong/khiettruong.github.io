@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Harmony Final Demo meeting, Zurich, Switzerland"
+date:   2024-06-14
+show_date: true
+categories: jekyll update
+header:
+  teaser: /assets/images/zurich.jpg
+
+---
+![My Post Image](/assets/images/zurich.jpg)
+<p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
+
+Joined the Harmony Final Demo meeting in Zürich to demonstate the shapeshifting robot!

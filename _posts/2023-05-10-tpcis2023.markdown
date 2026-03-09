@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "TPC meeting Interspeech, Dublin, Ireland"
+date:   2023-05-10
+show_date: true
+categories: jekyll update
+header:
+  teaser: /assets/images/tpc_dublin2023.jpg
+
+---
+![My Post Image](/assets/images/tpc_dublin2023.jpg)
+<p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
+
+Attended the TPC meeting as a lead Area Chair (Area 3) for Interspeech 2023 in Dublin!

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Presented poster at ACM IVA, Berlin, Germany"
+date:   2025-09-19
+show_date: true
+categories: jekyll update
+header:
+  teaser: /assets/images/ivaberlin2025.jpg
+
+---
+![My Post Image](/assets/images/ivaberlin2025.jpg)
+<p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
+
+Presented our poster at ACM IVA 2025 in Berlin! See Nevio F. Kavuza, Hideki Garcia Goo, and Khiet P. Truong. 2025. Do I Sound as Capable as I Look? Impact of Robot Communication Style and Appearance on User Perception. In Proceedings of the 25th ACM International Conference on Intelligent Virtual Agents (IVA '25). Association for Computing Machinery, New York, NY, USA, Article 44, 1–4. https://doi.org/10.1145/3717511.3749305

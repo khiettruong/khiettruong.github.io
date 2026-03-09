@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Interspeech 2025, Rotterdam, NL"
+date:   2025-09-01
+show_date: true
+categories: jekyll update
+header:
+  teaser: /assets/images/interspeech2025.jpg
+
+---
+![My Post Image](/assets/images/interspeech2025.jpg)
+<p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
+
+It was a great pleasure hosting Interspeech 2025 together with Odette Scharenborg and Catha Oertel.
