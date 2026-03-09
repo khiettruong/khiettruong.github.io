@@ -20,8 +20,8 @@ permalink: /academicservice/
 
 
 ## Editorial work
-- Member of Editorial Board Computer Speech and Language May 2021 - current
-- Associate Editor IEEE Transactions on Affective Computing Feb 2019 - current
+- Member of Editorial Board Computer Speech and Language May 2021 - 2025
+- Associate Editor IEEE Transactions on Affective Computing Feb 2019 - 2023
 - ACM Transactions on Intelligent Interactive Systems (TiiS) (inaugural) Board of Distinguished Reviewers 2017-2018
 
 ## Other roles
