@@ -7,6 +7,7 @@ permalink: /supervision/
 ---
 
 ## PhD students supervising/supervised
+- **Terry Yi Zhong**, PhD student RAIVD (promotor, July 2024 - ...)
 - **Rong Li**, PhD student VoCS (daily supervisor, Sep 2025 - ...)
 - **Dragos Balan**, PhD student HOSAN/MediSpeech (daily co-supervisor, Sep 2023 - ...)
 - **Ella Velner**, PhD student Child-Robot-Media-Interaction (daily supervisor, Oct 2019 - ...)
@@ -28,7 +29,7 @@ permalink: /supervision/
 ### Opposition
 - Mario Ganzeboom (2026). Challenging Speech Training in Neurological Patients by Interactive Gaming . (30 January 2026, Radboud University)
 - Chitralekha Bhat (2025). Automatic Recognition and Assessment of Dysarthric Speech. (24 March 2025, Radboud University)
--Luke Meyer (2024). Investigating the feasibility of a NAO robot in audiology. (20 November 2024, University of Groningen)
+- Luke Meyer (2024). Investigating the feasibility of a NAO robot in audiology. (20 November 2024, University of Groningen)
 - Alban Voppel (2022). Quantified speech as a marker: computational linguistics in schizophrenia-spectrum disorders. (31 January 2022, University of Groningen, PhD Examining Committee)
 
 
