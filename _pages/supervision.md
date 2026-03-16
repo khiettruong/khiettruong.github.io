@@ -7,7 +7,7 @@ permalink: /supervision/
 ---
 
 ## PhD students supervising/supervised
-- **Terry Yi Zhong**, PhD student RAIVD (promotor, July 2024 - ...)
+- **[Terry Yi Zhong](https://terryyizhong.github.io/)**, PhD student RAIVD (promotor, July 2024 - ...)
 - **Rong Li**, PhD student VoCS (daily supervisor, Sep 2025 - ...)
 - **Dragos Balan**, PhD student HOSAN/MediSpeech (daily co-supervisor, Sep 2023 - ...)
 - **Ella Velner**, PhD student Child-Robot-Media-Interaction (daily supervisor, Oct 2019 - ...)
