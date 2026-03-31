@@ -117,7 +117,7 @@ analytics:
 author:
   name             : "Khiet Truong"
   avatar           : "assets/images/khiet.png"
-  bio              : "Associate professor <br><br>paralinguistics<br>spoken conversational ai<br>human-agent communication<br><br>Radboud University, Centre for Language Studies<br>Erasmusbuilding, room E7.19<br>Nijmegen, the Netherlands<br><br>University of Twente, Human Media Interaction<br>Enschede, the Netherlands"
+  bio              : "Associate professor <br><br>paralinguistics<br>spoken conversational ai<br>human-agent communication<br><br>Radboud University, Centre for Language Studies<br>Erasmusbuilding<br>Nijmegen, the Netherlands<br><br>University of Twente, Human Media Interaction<br>Enschede, the Netherlands"
   location         : "Nijmegen / Enschede"
   email            : "khiet dot truong at ru dot nl"
   links:
@@ -166,7 +166,6 @@ footer:
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
   - _publications
 exclude:
