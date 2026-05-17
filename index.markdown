@@ -27,7 +27,7 @@ My interests lie in researching non-verbal aspects in speech communication (also
 - Spoken Conversational AI (e.g., automatic analysis of laughter, non-verbal vocalisations, backchanneling, prosodic synchrony in conversation)
 - Human-agent/robot communication (e.g., voice design and interaction for robots)
 
-I am currently working both at Radboud University (Centre for Language Studies) and University of Twente (Human Media Interaction). Previously, I was employed by TNO Human Factors in Soesterberg where I worked towards my PhD on automatic emotion recognition in speech and automatic laughter detection. During my master research at Radboud University in Nijmegen, I worked on automatic pronunciation error detection in second language learners’ speech. I obtained my Master's in (computational) linguistics from Utrecht University.
+I am currently working both at Radboud University (4 days/week at the Centre for Language Studies) and University of Twente (1 day/week at the Human Media Interaction group). Previously, I was employed by TNO Human Factors in Soesterberg where I worked towards my PhD on automatic emotion recognition in speech and automatic laughter detection. During my master research at Radboud University in Nijmegen, I worked on automatic pronunciation error detection in second language learners’ speech. I obtained my Master's in (computational) linguistics from Utrecht University.
 
 # Some keywords
 paralinguistics / spoken conversational ai / voice technology / social signal processing / affective computing / multimodal interaction / speech prosody / non-verbal vocalisations / laughter / dialogue / embodied conversational agents / human-human interaction / human-agent interaction / human-robot interaction
