@@ -12,12 +12,12 @@ permalink: /supervision/
 - **Rong Li**, PhD student VoCS (daily supervisor, Sep 2025 - ...)
 - **Grace Carrier**, external PhD student VoCS, based at [Eriksholm Research Centre](https://www.eriksholm.com/) (part of supervision team, Sep 2025 - ...)
 - **Dragos Balan**, PhD student HOSAN/MediSpeech (daily co-supervisor, Sep 2023 - ...)
-- **Ella Velner**, PhD student Child-Robot-Media-Interaction (daily supervisor, Oct 2019 - 2025)
-- **Michel Jansen**, PhD student 4TU Humans and Technology (co-promotor and daily supervisor, Oct 2017 - July 2025)
-- **Deniece Nazareth**, PhD student eScience project Emotion recognition in dementia (co-promotor and daily co-supervisor, May 2017 - Jan 2026)
-- **Roelof de Vries**, PhD student COMMIT P3 Sensor-based engagement for improved health (co-promotor and daily supervisor, May 2013 - Nov 2018)
-- **Cristina Zaga**, PhD student EU FP7 SQUIRREL (co-promotor and daily supervisor, Oct 2014 - March 2021)
-- **Jaebok Kim**, PhD student EU FP7 SQUIRREL (co-promotor and daily supervisor, July 2014 - July 2018)
+- Ella Velner, PhD student Child-Robot-Media-Interaction (daily supervisor, Oct 2019 - 2025)
+- Michel Jansen, PhD student 4TU Humans and Technology (co-promotor and daily supervisor, Oct 2017 - July 2025)
+- Deniece Nazareth, PhD student eScience project Emotion recognition in dementia (co-promotor and daily co-supervisor, May 2017 - Jan 2026)
+- Roelof de Vries, PhD student COMMIT P3 Sensor-based engagement for improved health (co-promotor and daily supervisor, May 2013 - Nov 2018)
+- Cristina Zaga, PhD student EU FP7 SQUIRREL (co-promotor and daily supervisor, Oct 2014 - March 2021)
+- Jaebok Kim, PhD student EU FP7 SQUIRREL (co-promotor and daily supervisor, July 2014 - July 2018)
 
 ## PhD dissertation committee
 
