@@ -7,6 +7,8 @@ permalink: /teaching/
 ---
 
 ## Courses at Radboud University
+I am teaching in the Linguistics Master's specialisation [Language and Communication Technologies](https://www.ru.nl/en/education/masters/language-and-communication-technologies) and the [Research Master Linguistics and Communication Sciences](https://www.ru.nl/en/education/masters/linguistics-and-communication-sciences-research).
+
 - [Ontwikkelingen in Taal- en Communicatietechnologie](https://ru.osiris-student.nl/onderwijscatalogus/extern/cursus?cursuscode=LET-TWM606&collegejaar=2025)
 - [Introduction to Language and Speech Technology](https://ru.osiris-student.nl/onderwijscatalogus/extern/cursus?cursuscode=LET-REMA-LCEX19&collegejaar=2025)
 - [Conversational AI](https://ru.osiris-student.nl/onderwijscatalogus/extern/cursus?cursuscode=LET-REMA-LCEX33&collegejaar=2025)
