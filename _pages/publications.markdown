@@ -7,10 +7,11 @@ permalink: /publications/
 ---
 [Google Scholar](https://scholar.google.com/citations?user=BP51q_oAAAAJ&hl=en)
 
+## 2026
+{% include bibliography2026.html %}
+
 ## 2025
-<p>
 {% include bibliography2025.html %}
-</p>
 
 ## 2024
 {% include bibliography2024.html %}
