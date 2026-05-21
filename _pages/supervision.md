@@ -6,12 +6,12 @@ title: "Supervision"
 permalink: /supervision/
 ---
 
-## PhD students (co-)supervising/supervised
-- **Keara Schaaij**, PhD student RAIVD P4 - Interactive Voice-Based AI for Dementia Care (promotor, Jan 2025 - ...)
-- **[Terry Yi Zhong](https://terryyizhong.github.io/)**, PhD student RAIVD P3 - Speech Processing for Diagnosing Neurodegenerative Disease (co-supervisor and promotor, July 2024 - ...)
-- **Rong Li**, PhD student VoCS (daily supervisor, Sep 2025 - ...)
-- **Grace Carrier**, external PhD student VoCS, based at [Eriksholm Research Centre](https://www.eriksholm.com/) (part of supervision team, Sep 2025 - ...)
-- **Dragos Balan**, PhD student HOSAN/MediSpeech (daily co-supervisor, Sep 2023 - ...)
+## PhD students (Co-)promotor / daily (co-)supervision / co-supervision:
+- **Keara Schaaij**, PhD student RAIVD P4 - Interactive Voice-Based AI for Dementia Care (Jan 2025 - ...)
+- **[Terry Yi Zhong](https://terryyizhong.github.io/)**, PhD student RAIVD P3 - Speech Processing for Diagnosing Neurodegenerative Disease (July 2024 - ...)
+- **Rong Li**, PhD student VoCS (Sep 2025 - ...)
+- **Grace Carrier**, external PhD student VoCS, based at [Eriksholm Research Centre](https://www.eriksholm.com/) (Sep 2025 - ...)
+- **Dragos Balan**, PhD student HOSAN/MediSpeech (Sep 2023 - ...)
 - Ella Velner, PhD student Child-Robot-Media-Interaction (daily supervisor, Oct 2019 - 2025)
 - Michel Jansen, PhD student 4TU Humans and Technology (co-promotor and daily supervisor, Oct 2017 - July 2025)
 - Deniece Nazareth, PhD student eScience project Emotion recognition in dementia (co-promotor and daily co-supervisor, May 2017 - Jan 2026)
