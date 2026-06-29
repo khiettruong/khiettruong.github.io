@@ -34,10 +34,10 @@ paralinguistics / spoken conversational ai / voice technology / social signal pr
 
 # Recent academic service (a summary)
 
-- **Interspeech:** 2026 (Area Chair, area 11), 2025 (General Co-Chair), 2023 (Lead Area Chair, area 3), 2022 (Lead Area Chair, area 3), 2021 (Lead Area Chair, area 3), 2017 (Area Chair, area 3), 2015 (Area Chair, area 3), reviewer since 2011
+- **Interspeech:** 2027 (Technical Program Co-Chair), 2026 (Area Chair, area 11), 2025 (General Co-Chair), 2023 (Lead Area Chair, area 3), 2022 (Lead Area Chair, area 3), 2021 (Lead Area Chair, area 3), 2017 (Area Chair, area 3), 2015 (Area Chair, area 3), reviewer since 2011
 - **ACM ICMI:** 2026 (Special Sessions CoChair), 2024 (Program Co-Chair), 2023 (Publicity Chair), 2021 (Social Media Chair), 2020 (General Chair), 2012-2019 reviewer or Senior Program Committee
-- **ACM/IEEE HRI:** 2024, 2023 (PC member), 2021, 2019, 2016, 2015
 - **Speech Prosody:** 2026, 2024, 2022, 2021, 2020, 2018, 2016, 2014
+- **ACM/IEEE HRI:** 2024, 2023 (PC member), 2021, 2019, 2016, 2015
 - **IEEE International Conference on Affective Computing and Intelligent Interaction (ACII):** 2024, 2023, 2022 (Program Co-Chair), 2021 (Senior PC), 2019 (Senior PC, Tutorial Chair), 2017 (Social Media Chair, Senior PC), 2015, 2013
 - **ACM International Conference on Intelligent Virtual Agents (IVA):** 2024, 2021, 2019, 2018, 2016 (Senior PC), 2015 (Doctoral Consortium Chair)
 - **HRI Pioneers:** reviewer since 2021
