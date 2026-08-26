@@ -29,7 +29,8 @@ permalink: /supervision/
 - Selma Yilmazyildiz (2017). Semantic Free Affective Speech Framework For Social Human-Robot Interaction. (13 Sep 2017, Vrije Universiteit Brussel)
 
 ### Opposition
-- Mario Ganzeboom (2026). Challenging Speech Training in Neurological Patients by Interactive Gaming . (30 January 2026, Radboud University)
+- Xing Wei (2026). Automatic Assessment of L2 Speech Intelligibility and Pronunciation. (25 August 2026, Radboud University)
+- Mario Ganzeboom (2026). Challenging Speech Training in Neurological Patients by Interactive Gaming. (30 January 2026, Radboud University)
 - Chitralekha Bhat (2025). Automatic Recognition and Assessment of Dysarthric Speech. (24 March 2025, Radboud University)
 - Luke Meyer (2024). Investigating the feasibility of a NAO robot in audiology. (20 November 2024, University of Groningen)
 - Alban Voppel (2022). Quantified speech as a marker: computational linguistics in schizophrenia-spectrum disorders. (31 January 2022, University of Groningen, PhD Examining Committee)
