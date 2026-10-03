@@ -25,6 +25,8 @@ I am teaching in the Linguistics Master's specialisation [Language and Communica
 - [Affective Computing](https://osiris.utwente.nl/student/OnderwijsCatalogusSelect.do?selectie=cursus&cursus=201600073&collegejaar=2021&taal=en)
 
 ## A selection of student projects
+- **Jurjen de Haan:** The role of beliefs in computer-directed speech: Speech adaptation under identical human and computer conditions (2026, master thesis Interaction Technology)
+- **Jesse Visser:** Interactive Sound Design Guided by Timbre Descriptors: A data-driven approach to designing robot voices (2026, master thesis Interaction Technology)
 - **Lukas Hageman:** Towards a Conversational Agent for Learning Dutch as a Second Language (2025, master thesis Interaction Technology)
 - **Nevio Kavuza:** Exploring the relationship between semantic-free utterances and expectations towards social robots (2025, Capita Selecta course Interaction Technology)
 - **Phuoc Ho:** Clarifying Laughter's Communicative Function: An Audio-Visual Approach to Classifying Laughter in Dialogue Acts (2025, master thesis Interaction Technology)
